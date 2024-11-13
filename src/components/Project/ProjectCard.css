@@ -1,0 +1,16 @@
+.badge-tech {
+    background-color: #756395;
+}
+
+.project-image {
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+
+    .project-image {
+        width: 150px;
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Javascript",
+        "image": "../../assets/javascript.png"
+    },
+    {
+        "name" : "Typescript",
+        "image": "../../assets/typescript.png"
+    },
+    {
+        "name" : "Vue.JS",
+        "image": "../../assets/vuejs.png"
+    },
+    {
+        "name" : "Node.JS",
+        "image": "../../assets/nodejs.png"
+    },
+    {
+        "name" : "Express.JS",
+        "image": "../../assets/expressjs.png"
+    },
+    {
+        "name" : "MySQL",
+        "image": "../../assets/mysql.png"
+    },
+    {
+        "name" : "HTML",
+        "image": "../../assets/html.png"
+    },
+    {
+        "name" : "CSS",
+        "image": "../../assets/css.png"
+    },
+    {
+        "name" : "Bootstrap",
+        "image": "../../assets/bootstrap.png"
+    },
+    {
+        "name" : "Rest API",
+        "image": "../../assets/restapi.png"
+    },
+    {
+        "name" : "Couchbase",
+        "image": "../../assets/couchbase.png"
+    },
+    {
+        "name" : "Redis",
+        "image": "../../assets/redis.png"
+    },
+    {
+        "name" : "Github",
+        "image": "../../assets/github.png"
+    },
+    {
+        "name" : "Docker",
+        "image": "../../assets/docker.png"
+    },
+    {
+        "name" : "Kubernetes",
+        "image": "../../assets/kubernetes.png"
+    }
+]

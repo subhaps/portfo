@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Portfo",
+        "description": "A personal website to showcase the skills, work experience, education and projects.",
+        "image": "../../assets/portfo.png",
+        "technologies": ["react", "bootstrap"],
+        "demoLink" : "",
+        "repoLink" : "https://github.com"
+    }
+]

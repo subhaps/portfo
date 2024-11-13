@@ -1,0 +1,68 @@
+.skill-card {
+    border: 1px solid var(--border-color) !important;
+    border-radius: 10px;
+    /* margin: 10px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Centers content horizontally */
+    justify-content: space-between;
+    /* Distribute content evenly */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    /* Light shadow for elevation */
+    transition: transform 0.3s, box-shadow 0.3s;
+    /* Smooth animation on hover */
+    margin: 0 auto; 
+    padding: 15px;
+    width: 8rem;
+    /* height: 10rem; */
+    text-align: center;
+}
+
+.skill-card:hover {
+    transform: scale(1.05);
+    /* Scale slightly on hover */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+    /* Elevated shadow */
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    width: 100%;
+    height: 70%;
+    /* Allocate space for the image */
+}
+
+.skill-card img {
+    max-width: 70%;
+    /* Scale image dynamically */
+    height: auto;
+    /* Maintain aspect ratio */
+    object-fit: contain;
+    /* Fit the image inside the container */
+}
+
+@media (max-width: 576px) {
+    .skill-card {
+        width: 6rem;
+        /* Smaller cards for mobile */
+        height: 8rem;
+        padding: 10px;
+    }
+
+    .skill-card img {
+        max-width: 60%;
+        /* Adjust image size for smaller screens */
+    }
+}
+
+@media (min-width: 1200px) {
+    .skill-card {
+        width: 9rem;
+        /* Larger cards on bigger screens */
+        height: 11rem;
+    }
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "companyName": "Posty Infotech",
+        "location": "Tirunelveli",
+        "period": "Jan 2020 - Present",
+        "designation": "Product Manager",
+        "about": "Worked as Full stack developer on vue.js and node.js development. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "logo": "../../assets/posty_infotech.png"
+    },
+    {
+        "id": 1,
+        "companyName": "Nagammal Mills Pvt Ltd",
+        "location": "Nagercoil",
+        "period": "Apr 2017 - May 2019",
+        "designation": "Data Entry Operator",
+        "about": "Worked as Data entry operator and receptionist. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "logo": "../../assets/nagammal.png"
+    }
+]
